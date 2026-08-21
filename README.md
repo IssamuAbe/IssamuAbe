@@ -105,6 +105,7 @@ Aplicação **Progressive Web App (PWA)** desenvolvida com suporte a funcionamen
 ## 🌎 Idiomas
 
 🇧🇷 **Português** — Nativo
+
 🇺🇸 **Inglês** — C1
 
 ---
