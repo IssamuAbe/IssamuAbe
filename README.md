@@ -118,11 +118,11 @@ Tenho especial interesse em ambientes onde possa combinar **desenvolvimento de s
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssamuAbe\&show_icons=true\&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssamuAbe\&layout=compact\&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
