@@ -55,7 +55,7 @@ Aplicação desenvolvida utilizando arquitetura de **Micro Frontends com Webpack
 
 **Tecnologias:** JavaScript • Webpack • Module Federation • Micro Frontends
 
-🔗 [Ver repositório](https://github.com/SEU-USUARIO/microfrontend-food)
+🔗 [Ver repositório](https://github.com/IssamuAbe/microfrontend-food)
 
 ---
 
@@ -65,7 +65,7 @@ Portal desenvolvido com **Next.js**, explorando conceitos de componentização, 
 
 **Tecnologias:** Next.js • React • JavaScript
 
-🔗 [Ver repositório](https://github.com/SEU-USUARIO/portal-de-viagens)
+🔗 [Ver repositório](https://github.com/IssamuAbe/portal-de-viagens)
 
 ---
 
@@ -75,7 +75,7 @@ Projeto desenvolvido para aplicar conceitos de **Integração Contínua e Entreg
 
 **Tecnologias:** Next.js • Jest • ESLint • GitHub Actions • Vercel
 
-🔗 [Ver repositório](https://github.com/SEU-USUARIO/projeto-devops)
+🔗 [Ver repositório](https://github.com/IssamuAbe/projeto-devops)
 
 🌐 [Ver projeto](https://projeto-devops-fawn.vercel.app)
 
@@ -87,7 +87,7 @@ Aplicação **Progressive Web App (PWA)** desenvolvida com suporte a funcionamen
 
 **Tecnologias:** JavaScript • PWA • Service Workers • LocalStorage
 
-🔗 [Ver repositório](https://github.com/SEU-USUARIO/diario-de-bordo)
+🔗 [Ver repositório](https://github.com/IssamuAbe/diario-de-bordo)
 
 ---
 
@@ -119,9 +119,9 @@ Tenho especial interesse em ambientes onde possa combinar **desenvolvimento de s
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssamuAbe\&show_icons=true\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssamuAbe\&layout=compact\&hide_border=true)
 
 ---
 
